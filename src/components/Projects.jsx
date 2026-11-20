@@ -51,8 +51,8 @@ const PROJECTS = [
     tags: ['React', 'Java', 'PostgreSQL', 'Docker', 'AWS'],
     catColor: '#ec4899',
     github: 'https://github.com/Lokesh00-11/SHNOOR-HRMS-PORTAL',
-    demo: 'https://github.com/Lokesh00-11/SHNOOR-HRMS-PORTAL',
-    isDeployed: false
+    demo: 'https://shnoor-hrms-portal.vercel.app/',
+    isDeployed: true
   },
   {
     num: '05',
