@@ -1,9 +1,12 @@
 # 🌌 Chowduvada Lokesh — Personal Developer Portfolio
 
+[![Deploy with Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://portfolio-eight-steel-22.vercel.app/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?style=flat&logo=vite)](https://vitejs.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-R3F-black?style=flat&logo=three.js)](https://threejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> 🔗 **Live URL:** [https://portfolio-eight-steel-22.vercel.app](https://portfolio-eight-steel-22.vercel.app/)
 
 > Personal portfolio of **Chowduvada Lokesh** — Aspiring Full Stack & AI/ML Engineer (B.Tech CSE '26). Built with a modern, high-performance dark theme featuring interactive 3D visualizations, smooth hardware-accelerated scrolling, and full-stack project showcases.
 
